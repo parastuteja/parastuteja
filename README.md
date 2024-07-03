@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @parastuteja
 - 👀 I’m interested in Gaming And Coding
 - 🌱 I’m currently learning MERN Full Stack
-- 💞️ I’m looking to collaborate on ...
 - 📫 Reach Me Through Instagram Or Linked IN
   
 - ⚡ Fun fact: Gaming Helps Me Increased IQ in Coding
